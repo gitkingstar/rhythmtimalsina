@@ -1,0 +1,66 @@
+body{
+	margin: 1
+	background-color: gold;
+}
+header{
+	background-color: red;
+	padding: 20px;
+	text-align: center;
+	font-family: "Comic Sans Ms";
+}
+nav{
+	overflow: hidden;
+	background-color: #333;
+}
+nav a{
+	float: left;
+	color: white;
+	padding-right: 20px;
+	padding: 14px 12px 11px 10px;
+	text-decoration: none;
+}
+nav a:hover{
+	background-color: black;
+	color: white;
+}
+h2{
+	font-family: "Comic Sans Ms";
+	text-shadow: rgb(blue);
+}
+.colomn{
+	float: left;
+	padding: 10px;
+}
+input[type=text], select, textarea{
+	width: 100%;
+	padding: 12px;
+	border: 1px solid #ccc;
+	margin-top: 6px;
+	margin-bottom: 16px;
+	resize: vertical;
+}
+input[type=Sumbit]{
+	background-color: blue;
+	color: white;
+	padding: 12px 20px;
+	border: none;
+	font-family: "Comic Sans Ms"
+	margin: 2px;
+}
+footer{
+	clear: both;
+	background-color: red;
+	padding: 20px;
+	color: black;
+	text-align: center;
+	padding: 20px;
+	font-family: "Comic Sans Ms";
+}
+div.desc{
+	padding: 15px;
+	color: blue;
+	font-family: "Comic Sans Ms"
+}
+p{
+	background-clip: (video.mp4.mp4);
+}
